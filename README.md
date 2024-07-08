@@ -7,7 +7,7 @@
 ### Contato:
 - 📧 Entre em contato via 13henrique.paulo13@gmail.com
 ### Linguagens:
-[![Python](folder/python.png)])
+![Python](folder/python.png))
 
 <!---
 Paullin-dev/Paullin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
