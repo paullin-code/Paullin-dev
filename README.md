@@ -7,6 +7,8 @@
 - 📧 Entre em contato via contato.p.henrique7@gmail.com
 ### Linguagens:
 ![Python](folder/python.png)
+&nbsp; &nbsp; 
 ![CSS](folder/css.png)
+&nbsp; &nbsp; 
 ![Html](folder/html.png)
 
